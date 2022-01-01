@@ -2,16 +2,21 @@
 //  FindRApp.swift
 //  FindR
 //
-//  Created by Devang Papinwar on 01/01/22.
+//  Created by Devang Papinwar on 9/12/21.
 //
 
 import SwiftUI
 
 @main
-struct FindRApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
+struct FindRApp: App
+{
+    var body: some Scene
+    {
+        WindowGroup
+        {
+            LoginView(didCompleteLoginProcess: {
+                
+            })
         }
     }
 }
