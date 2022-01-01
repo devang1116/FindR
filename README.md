@@ -8,4 +8,4 @@ SwiftUI iOS application allowing users to create profiles and meet and chat with
 
 
 
-<img src="https://user-images.githubusercontent.com/58638886/147846960-b2a07bd3-5109-4962-91ac-55f3fb2ae03c.png" width="30%" height="25%">   <img src="https://user-images.githubusercontent.com/58638886/147847003-f322219f-b2cf-4c4b-bb5f-42c53240c5d5.png" width="30%" height="25%"> <img src="https://user-images.githubusercontent.com/58638886/147847016-f0d66b30-94f3-44f8-aff6-1ecc1c2f05ef.png" width="30%" height="25%">  
+<img src="https://user-images.githubusercontent.com/58638886/147846960-b2a07bd3-5109-4962-91ac-55f3fb2ae03c.png" width="30%" height="25%">   <img src="https://user-images.githubusercontent.com/58638886/147847003-f322219f-b2cf-4c4b-bb5f-42c53240c5d5.png" width="30%" height="25%">  
